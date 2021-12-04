@@ -1,0 +1,17 @@
+.mensaje {
+	background:#038C4C;
+	text-align: center;
+	padding:20px;
+	color:#fff;
+	margin:20px 0;
+	border-radius:10px;
+}
+
+.articulo {
+	float: left;
+	width: 65%;
+	border-radius: 20px;
+	padding:20px 20px 20px 20px;
+	background-color: #fff;
+	background-position: left;
+}

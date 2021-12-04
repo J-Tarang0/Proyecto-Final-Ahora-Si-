@@ -1,0 +1,23 @@
+.infoFactura {
+    font-family:sans-serif;
+	float: left;
+	width: 65%;
+	border-radius: 20px;
+	padding:20px 20px 20px 20px;
+	background-color: #fff;
+	background-position: left;
+    text-align: center;
+}
+
+/*Formulario*/
+
+form{
+    background-color: #038C4C;
+    border-radius: 3px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+    position: center;
+}
